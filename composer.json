@@ -1,0 +1,25 @@
+{
+    "name": "onliner/geetest-php-sdk",
+    "type": "library",
+    "description": "PHP client for GeeTest captcha.",
+    "keywords": ["geetest", "php", "captcha"],
+    "license": "MIT",
+    "require": {
+        "php": "^7.2",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5|^9.0",
+        "phpstan/phpstan": "^0.12.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "Onliner\\GeeTest\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Onliner\\GeeTest\\Tests\\": "tests"
+        }
+    }
+}
