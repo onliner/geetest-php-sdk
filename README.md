@@ -60,7 +60,7 @@ License
 Released under the [MIT license](LICENSE).
 
 
-[version-badge]:    https://poser.pugx.org/onliner/geetest-php-sdk/v/stable.png
+[version-badge]:    https://img.shields.io/packagist/v/onliner/geetest-php-sdk.svg
 [version-link]:     https://packagist.org/packages/onliner/geetest-php-sdk
 [downloads-link]:   https://packagist.org/packages/onliner/geetest-php-sdk
 [downloads-badge]:  https://poser.pugx.org/onliner/geetest-php-sdk/downloads.png
